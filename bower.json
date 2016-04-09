@@ -1,0 +1,20 @@
+{
+  "name": "webapp",
+  "description": "Plantilla para hacer plantilla",
+  "main": "index.html",
+  "authors": [
+    "David Lopez"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Webapp"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
